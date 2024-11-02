@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">ShortCutToDev</string>
-    <string name="open_wireless_debugging">Open Wireless Debugging</string>
+    <string name="open_wireless_debugging">Open Developer Options</string>
 </resources>
